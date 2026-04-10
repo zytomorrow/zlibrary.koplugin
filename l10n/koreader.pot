@@ -578,6 +578,21 @@ msgstr ""
 msgid "API returned an error for favorite book."
 msgstr ""
 
+msgid "Book ID is required."
+msgstr ""
+
+msgid "Failed to fetch book comments (no response body)."
+msgstr ""
+
+msgid "Failed to parse book comments response."
+msgstr ""
+
+msgid "API returned an error for book comments."
+msgstr ""
+
+msgid "Failed to process book comments."
+msgstr ""
+
 #: zlibrary/config.lua:131
 msgid "Best match"
 msgstr ""
@@ -1078,4 +1093,16 @@ msgstr ""
 
 #: zlibrary/ui.lua:1137
 msgid "Timeout Settings"
+msgstr ""
+
+msgid "Loading comments..."
+msgstr ""
+
+msgid "Failed to load comments"
+msgstr ""
+
+msgid "No comments to display"
+msgstr ""
+
+msgid "Comments"
 msgstr ""
